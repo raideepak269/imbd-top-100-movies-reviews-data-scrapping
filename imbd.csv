@@ -1,0 +1,101 @@
+,Name_of_movie,Rleasing_year,Watching_time,Ratings,Metascore,total_vote,total_gross
+0,The Shawshank Redemption,-1994,142 min,9.3,82,"27,89,761",$28.34M
+1,The Godfather,-1972,175 min,9.2,100,"19,42,949",$134.97M
+2,The Dark Knight,-2008,152 min,9,84,"27,69,725",$534.86M
+3,Schindler's List,-1993,195 min,9,95,"14,03,132",$96.90M
+4,The Godfather Part II,-1974,202 min,9,90,"13,20,113",$57.30M
+5,The Lord of the Rings: The Return of the King,-2003,201 min,9,94,"19,11,018",$377.85M
+6,12 Angry Men,-1957,96 min,9,97,"8,28,583",$4.36M
+7,Pulp Fiction,-1994,154 min,8.9,95,"21,40,179",$107.93M
+8,Spider-Man: Across the Spider-Verse,-2023,140 min,8.8,86,"2,39,496",#18
+9,Inception,-2010,148 min,8.8,74,"24,59,053",$292.58M
+10,The Lord of the Rings: The Fellowship of the Ring,-2001,178 min,8.8,92,"19,39,203",$315.54M
+11,Fight Club,-1999,139 min,8.8,67,"22,24,060",$37.03M
+12,Forrest Gump,-1994,142 min,8.8,82,"21,70,042",$330.25M
+13,"Il buono, il brutto, il cattivo",-1966,161 min,8.8,90,"7,87,067",$6.10M
+14,The Lord of the Rings: The Two Towers,-2002,179 min,8.8,87,"17,24,435",$342.55M
+15,Jai Bhim,-2021,164 min,8.8,$,"2,09,574",#219
+16,777 Charlie,-2022,136 min,8.8,$,"36,248",$$
+17,Interstellar,-2014,169 min,8.7,74,"19,75,683",$188.02M
+18,Goodfellas,-1990,145 min,8.7,92,"12,10,457",$46.84M
+19,The Matrix,-1999,136 min,8.7,73,"19,84,220",$171.48M
+20,One Flew Over the Cuckoo's Nest,-1975,133 min,8.7,84,"10,40,738",$112.00M
+21,Star Wars: Episode V - The Empire Strikes Back,-1980,124 min,8.7,82,"13,38,000",$290.48M
+22,Rocketry: The Nambi Effect,-2022,157 min,8.7,$,"54,898",$$
+23,Soorarai Pottru,-2020,153 min,8.7,$,"1,20,515",$$
+24,Oppenheimer,-2023,180 min,8.6,88,"3,87,030",#36
+25,Se7en,-1995,127 min,8.6,65,"17,26,651",$100.13M
+26,The Silence of the Lambs,-1991,118 min,8.6,86,"14,88,179",$130.74M
+27,Terminator 2: Judgment Day,-1991,137 min,8.6,75,"11,38,312",$204.84M
+28,Saving Private Ryan,-1998,169 min,8.6,91,"14,44,953",$216.54M
+29,The Green Mile,-1999,189 min,8.6,61,"13,55,902",$136.80M
+30,Sen to Chihiro no kamikakushi,-2001,125 min,8.6,96,"8,05,961",$10.06M
+31,Star Wars,-1977,121 min,8.6,90,"14,09,845",$322.74M
+32,Cidade de Deus,-2002,130 min,8.6,79,"7,79,517",$7.56M
+33,La vita è bella,-1997,116 min,8.6,59,"7,20,216",$57.60M
+34,Shichinin no samurai,-1954,207 min,8.6,98,"3,56,978",$0.27M
+35,It's a Wonderful Life,-1946,130 min,8.6,89,"4,77,651",#21
+36,Seppuku,-1962,133 min,8.6,85,"63,192",#47
+37,Sita Ramam,-2022,163 min,8.6,$,"62,319",$$
+38,The Prestige,-2006,130 min,8.5,66,"13,90,907",$53.09M
+39,The Departed,-2006,151 min,8.5,85,"13,75,426",$132.38M
+40,Gladiator,-2000,155 min,8.5,67,"15,56,933",$187.71M
+41,Gisaengchung,-2019,132 min,8.5,96,"8,81,739",$53.37M
+42,Django Unchained,-2012,165 min,8.5,81,"16,28,363",$162.81M
+43,Back to the Future,-1985,116 min,8.5,87,"12,58,947",$210.61M
+44,Alien,-1979,117 min,8.5,89,"9,16,032",$78.90M
+45,Whiplash,-2014,106 min,8.5,89,"9,26,953",$13.09M
+46,Léon,-1994,110 min,8.5,64,"12,05,332",$19.50M
+47,The Pianist,-2002,150 min,8.5,85,"8,73,615",$32.57M
+48,The Usual Suspects,-1995,106 min,8.5,77,"11,16,018",$23.34M
+49,The Lion King,-1994,88 min,8.5,88,"11,01,784",$422.78M
+50,American History X,-1998,119 min,8.5,62,"11,55,267",$6.72M
+51,Psycho,-1960,109 min,8.5,97,"6,96,358",$32.00M
+52,Once Upon a Time in the West,-1968,165 min,8.5,82,"3,40,770",$5.32M
+53,Casablanca,-1942,102 min,8.5,100,"5,90,322",$1.02M
+54,The Intouchables,-2011,112 min,8.5,57,"8,94,694",$13.18M
+55,Hotaru no haka,-1988,89 min,8.5,94,"2,93,939",#45
+56,Rear Window,-1954,112 min,8.5,100,"5,07,513",$36.76M
+57,Nuovo Cinema Paradiso,-1988,155 min,8.5,80,"2,72,725",$11.99M
+58,Modern Times,-1936,87 min,8.5,96,"2,51,638",$0.16M
+59,City Lights,-1931,87 min,8.5,99,"1,90,815",$0.02M
+60,96,(II) (2018),158 min,8.5,$,"33,872",$$
+61,Spider-Man: Into the Spider-Verse,-2018,117 min,8.4,87,"6,24,334",$190.24M
+62,Oldeuboi,-2003,101 min,8.4,78,"6,07,492",$0.71M
+63,Joker,(I) (2019),122 min,8.4,59,"13,92,357",$335.45M
+64,The Dark Knight Rises,-2012,164 min,8.4,78,"17,70,158",$448.14M
+65,Avengers: Endgame,-2019,181 min,8.4,78,"12,08,687",$858.37M
+66,Memento,-2000,113 min,8.4,83,"12,82,980",$25.54M
+67,The Shining,-1980,146 min,8.4,66,"10,65,458",$44.02M
+68,Apocalypse Now,-1979,147 min,8.4,94,"6,89,947",$83.47M
+69,Aliens,-1986,137 min,8.4,84,"7,41,057",$85.16M
+70,Raiders of the Lost Ark,-1981,115 min,8.4,85,"10,09,973",$248.16M
+71,Avengers: Infinity War,-2018,149 min,8.4,68,"11,49,996",$678.82M
+72,Amadeus,-1984,160 min,8.4,87,"4,15,283",$51.97M
+73,Idi i smotri,-1985,142 min,8.4,$,"89,185",#91
+74,Coco,(I) (2017),105 min,8.4,81,"5,50,793",$209.73M
+75,Kimi no na wa.,-2016,106 min,8.4,81,"2,96,772",$5.02M
+76,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,-1964,95 min,8.4,97,"5,05,503",$0.28M
+77,WALL·E,-2008,98 min,8.4,95,"11,60,266",$223.81M
+78,The Lives of Others,-2006,137 min,8.4,89,"4,00,357",$11.29M
+79,3 Idiots,-2009,170 min,8.4,67,"4,16,729",$6.53M
+80,Capharnaüm,-2018,126 min,8.4,75,"98,311",$1.66M
+81,Das Boot,-1981,149 min,8.4,86,"2,58,194",$11.49M
+82,Sunset Blvd.,-1950,110 min,8.4,94,"2,29,761",#61
+83,Paths of Glory,-1957,88 min,8.4,90,"2,05,276",#62
+84,Witness for the Prosecution,-1957,116 min,8.4,76,"1,31,880",$8.18M
+85,The Great Dictator,-1940,125 min,8.4,$,"2,31,308",$0.29M
+86,Tengoku to jigoku,-1963,143 min,8.4,90,"49,329",#86
+87,Kaithi,-2019,145 min,8.4,$,"37,277",$$
+88,Sardar Udham,-2021,164 min,8.4,$,"44,942",$$
+89,Asuran,-2019,141 min,8.4,$,"31,802",$$
+90,Drishyam 2,-2021,152 min,8.4,$,"39,521",$$
+91,Top Gun: Maverick,-2022,130 min,8.3,78,"6,24,888",$718.73M
+92,Heat,-1995,170 min,8.3,76,"6,89,526",$67.44M
+93,Inglourious Basterds,-2009,153 min,8.3,69,"15,18,541",$120.54M
+94,Requiem for a Dream,-2000,102 min,8.3,71,"8,72,163",$3.64M
+95,American Beauty,-1999,122 min,8.3,84,"11,83,401",$130.10M
+96,Good Will Hunting,-1997,126 min,8.3,70,"10,19,318",$138.43M
+97,2001: A Space Odyssey,-1968,149 min,8.3,84,"6,95,480",$56.95M
+98,Braveheart,-1995,178 min,8.3,68,"10,65,831",$75.60M
+99,Full Metal Jacket,-1987,116 min,8.3,78,"7,67,962",$46.36M
